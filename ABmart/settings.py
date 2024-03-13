@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-o2t4az$9cob+c_g@)n#gu#*vwa&ya2-efkq@dnn98-lp#i)-es
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.201.60.228' , '127.0.0.1']
+ALLOWED_HOSTS = ['13.201.60.228' , '127.0.0.1','www.bansode.cloud',]
 
 
 # Application definition
